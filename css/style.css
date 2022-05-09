@@ -6,7 +6,7 @@
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: #FCA4A6;
-  --title-color: hsl(228, 12%, 15%);
+  --title-color: #fff;
   --text-color: hsl(228, 8%, 50%);
   --body-color: #FCA4A6;
   --container-color: #fff;
